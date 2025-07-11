@@ -1,0 +1,11 @@
+# Node.js / React
+node_modules/
+dist/
+.env
+
+# Python / Flask
+__pycache__/
+*.pyc
+chroma_store/
+instance/
+.env
